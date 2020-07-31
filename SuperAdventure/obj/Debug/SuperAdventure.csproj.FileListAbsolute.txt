@@ -1,0 +1,12 @@
+D:\C#\C# tuts\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+D:\C#\C# tuts\SuperAdventure\bin\Debug\SuperAdventure.exe
+D:\C#\C# tuts\SuperAdventure\bin\Debug\SuperAdventure.pdb
+D:\C#\C# tuts\SuperAdventure\bin\Debug\Engine.dll
+D:\C#\C# tuts\SuperAdventure\bin\Debug\Engine.pdb
+D:\C#\C# tuts\SuperAdventure\obj\Debug\SuperAdventure.csprojAssemblyReference.cache
+D:\C#\C# tuts\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+D:\C#\C# tuts\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.cache
+D:\C#\C# tuts\SuperAdventure\obj\Debug\SuperAdventure.csproj.CoreCompileInputs.cache
+D:\C#\C# tuts\SuperAdventure\obj\Debug\SuperAdventure.csproj.CopyComplete
+D:\C#\C# tuts\SuperAdventure\obj\Debug\SuperAdventure.exe
+D:\C#\C# tuts\SuperAdventure\obj\Debug\SuperAdventure.pdb
